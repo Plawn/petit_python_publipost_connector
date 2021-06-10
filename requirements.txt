@@ -1,0 +1,5 @@
+# maybe souldn't install all
+fastapi[all]
+pydantic
+uvicorn
+minio
