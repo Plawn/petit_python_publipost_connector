@@ -13,11 +13,6 @@ from .datastructure import (GlobalContext, LoadTemplateBody, MinioCnfigure,
 from .template_db import TemplateDB, TemplateType
 
 
-
-
-app = FastAPI()
-
-
 def EnablePublipost(app: FastAPI, template_class: Type[TemplateType]) -> FastAPI:
     context = GlobalContext()
 
