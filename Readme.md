@@ -29,7 +29,7 @@ It exposes 2 things:
 Example:
 
 ```python
-// ...
+# ...
 import io
 import re
 from typing import Dict, List, Optional
