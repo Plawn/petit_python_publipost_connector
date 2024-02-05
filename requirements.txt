@@ -1,5 +1,5 @@
 # maybe souldn't install all
-fastapi==0.68.0
+fastapi==0.109.1
 uvicorn==0.11.8
 minio==7.1.0
 python-multipart==0.0.5
